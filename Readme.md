@@ -10,7 +10,6 @@ h5py
 openai
 pymupdf
 pdfplumber
-pdf2image
 ```
 
 ## 运行
@@ -18,3 +17,4 @@ pdf2image
 2.将Tmain.py中的pdf输入地址更换为真实文件地址；  
 3.更改Tconfig.py中的文档的主题；  
 4.若为azure openai的api（例如这里可以使用chatgpt），将Tconfig.py中的enable_chatgpt设为True。  
+## 本程序依据AGPL协议，这是pymupdf库的要求。
