@@ -13,6 +13,7 @@ pdfplumber
 ```
 
 ## 运行
+0.安装好python3；以上依赖库；mongodb；
 1.获取一个大语言模型的api-key，以及对应url（Tconfig.py）；  
 2.将Tmain.py中的pdf输入地址更换为真实文件地址；  
 3.更改Tconfig.py中的文档的主题；  
