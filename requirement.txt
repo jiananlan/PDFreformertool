@@ -1,0 +1,9 @@
+rich
+docxtlp
+pdf2docx
+python-docx
+pymongo
+h5py
+openai
+pymupdf
+pdfplumber
