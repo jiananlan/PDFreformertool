@@ -11,6 +11,10 @@ openai
 pymupdf
 pdfplumber
 ```
+或者  
+```
+python -m pip install -r requirement.txt
+```
 
 ## 运行
 **0.安装**好python3；以上依赖库；mongodb（T5.py是我对替代mongodb的一个尝试，利用hdf5，但是尚有问题）；  
