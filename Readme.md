@@ -17,7 +17,7 @@ python -m pip install -r requirement.txt
 ```
 
 ## 运行
-**0.安装**好python3；以上依赖库；mongodb（T5.py是我对替代mongodb的一个尝试，利用hdf5，但是尚有问题）；  
+**0.安装**好python3；以上依赖库；mongodb（T5.py是我对替代mongodb的一个尝试，利用hdf5，但是尚有问题🤨🤨🤨）；  
 **1.获取**一个大语言模型的api-key，以及对应url（Tconfig.py）；  
 **2.将T**main.py中的pdf输入地址更换为真实文件地址；  
 **3.更改**Tconfig.py中的文档的主题；  
