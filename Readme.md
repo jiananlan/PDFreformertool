@@ -2,7 +2,7 @@
 ## 依赖
 ```
 rich
-docxtlp
+docxtpl
 pdf2docx
 python-docx
 pymongo
@@ -13,7 +13,7 @@ pdfplumber
 ```
 或者安装  
 ```bash
-python -m pip install -r requirement.txt
+python -m pip install -r requirements.txt
 ```
 
 ## 运行
