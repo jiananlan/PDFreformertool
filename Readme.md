@@ -11,8 +11,8 @@ openai
 pymupdf
 pdfplumber
 ```
-或者  
-```
+或者安装  
+```bash
 python -m pip install -r requirement.txt
 ```
 
@@ -24,5 +24,5 @@ python -m pip install -r requirement.txt
 **4.若为**azure openai的api（例如这里可以使用chatgpt），将Tconfig.py中的enable_chatgpt设为True，并在T24.py中提供url、api-key。  
 ```
 python Tmain.py
-```
+```bash
 ## 本程序依据AGPL协议，这是pymupdf库的要求。
