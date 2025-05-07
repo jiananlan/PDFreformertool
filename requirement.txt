@@ -1,5 +1,5 @@
 rich
-docxtlp
+docxtpl
 pdf2docx
 python-docx
 pymongo
