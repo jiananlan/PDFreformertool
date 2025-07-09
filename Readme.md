@@ -25,4 +25,6 @@ python -m pip install -r requirements.txt
 ```bash
 python Tmain.py
 ```
+## 本软件工作流程
+![工作流程示意](process.png)
 ## 本程序依据AGPL协议，这是pymupdf库的要求。
