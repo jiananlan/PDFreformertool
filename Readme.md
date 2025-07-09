@@ -48,7 +48,7 @@ docxtpl
 pdf2docx
 python-docx
 pymongo
-h5py
+h5py   --->   可选
 openai
 pymupdf
 pdfplumber
@@ -177,7 +177,7 @@ docxtpl
 pdf2docx
 python-docx
 pymongo
-h5py
+h5py   --->   optional
 openai
 pymupdf
 pdfplumber
